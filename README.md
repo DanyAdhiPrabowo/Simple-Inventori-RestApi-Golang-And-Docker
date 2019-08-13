@@ -27,8 +27,8 @@ This is my first RestApi made with the Golang programming language, this restapi
 ## Try This API on Docker
 - Download and install Docker for [windows]('https://docs.docker.com/docker-for-windows/install/'), and this for [Mac]('https://docs.docker.com/docker-for-mac/install/')
 - Reference install docker click [here]('https://runnable.com/docker/getting-started/')
-- After install D0ker, just copy this code "COde-code" on your terminal and press enter
-- Open your Postman and try this endpoint
+- After install Doker, just copy this code "docker run -p 4149:60 danyadhi/tugas-golang-course-app:0.0.1" on your terminal and press enter
+- Open your Postman and try this endpoint "localhost:4149/api/product"
 
 ## Built With
 
