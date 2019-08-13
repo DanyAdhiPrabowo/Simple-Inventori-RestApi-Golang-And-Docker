@@ -2,16 +2,19 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/Golang-1.12.7-blue.svg?style=flat-square" alt="npm version">
+    <img src="https://img.shields.io/badge/Golang-1.12.7-blue.svg?style=flat-square" alt="npm">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/MySQL-.-orange.svg?style=flat-square" alt="npm version">
+    <img src="https://img.shields.io/badge/MySQL-.-orange.svg?style=flat-square" alt="mysql">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Docker-19.03.1-9cf.svg?style=flat-square" alt="docker">
   </a>
 </div>
 
 
 ## Introduction
-This is my first RestApi made with the Golang programming language, this restapi I made to fulfill my online course assignments at the arkademy. This is a simple inventory RestApi made with the Golang programming language and using the MySQL database.
+This is a my final task for online course at the arkademy. This is a simple inventory RestApi made with the Golang programming language and using the MySQL database.
 
 ## Prerequiste
 - Golang - Download and Install [Golang](https://golang.org/)
